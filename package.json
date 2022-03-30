@@ -1,0 +1,24 @@
+{
+  "name": "force-directed-clusters-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "6.7.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-force-graph-2d": "1.23.6",
+    "three": "0.129.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
